@@ -21,23 +21,23 @@ from plsModelling import plsModel
 
 ### Example
 1. Score Plot
-![image](https://user-images.githubusercontent.com/80809187/215824223-72a625b1-0c4b-4af4-a80f-74366e0329a2.png)
+<img src="/imgs/scoreplot.png" width="300" height="300">
 
 2. Loading Plot
-![image](https://user-images.githubusercontent.com/80809187/215824263-26d5ee77-ccbf-4429-a533-f31a79f9545b.png)
+<img src="/imgs/loadingplot.png" width="300" height="300">
 
 3. PLS Predict: SCatter Plot
-![image](https://user-images.githubusercontent.com/80809187/215824355-60cf7635-f4c1-4c65-8a6b-76bff659ec01.png)
+<img src="/imgs/plsscatterplot.png" width="300" height="300">
 
 4. PLS VIP(Variable Importance in Projection)
-![image](https://user-images.githubusercontent.com/80809187/215824456-5c026370-7f86-4c0f-9b07-9d8092527b36.png)
+<img src="/imgs/plsvip.png" height="300">
 
 5. Fault/Anomaly Detection - Hotelling's T2
-![image](https://user-images.githubusercontent.com/80809187/215824586-fa2bdafd-3394-49a2-8cb1-0acc94f15415.png)
+<img src="/imgs/pcat2.png" height="300">
 
 6. Fault/Anomaly Detection - SPE/DMODX
-![image](https://user-images.githubusercontent.com/80809187/215824631-277271a9-7894-40f3-96e6-2abe62a82ad1.png)
+<img src="/imgs/pcaspe.png" height="300">
 
 7. Fault Identify - Contribution
-![image](https://user-images.githubusercontent.com/80809187/215824688-3f43e62f-deb7-4631-b739-9d2f5beccb7b.png)
+<img src="/imgs/pcacontribution.png" height="300">
 
